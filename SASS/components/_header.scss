@@ -1,0 +1,12 @@
+/*header*/
+
+.header {
+    height: 80px;
+    display: flex;
+    border-bottom: 1px solid var(--list-project-color);
+
+    &__container {
+        display: flex;
+    }
+}
+

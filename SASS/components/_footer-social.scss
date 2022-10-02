@@ -1,0 +1,16 @@
+/* footer-social */
+
+.footer-social {
+    margin-right: 93px;
+
+    &__subtitle {
+        display: block;
+        margin-bottom: 20px;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: calc(16 / 14);
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--secondary-text-color);
+    }
+}

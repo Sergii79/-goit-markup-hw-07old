@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(209, 21, 21);
+    color: aqua;
+}
+
+.modal-button {
+    background-color: rgb(209, 21, 21);
+}
+
+// utils styles
+@import './components/visually-hidden';
+@import './utils/variables';
+
+// base styles
+@import './components/reset';
+@import './components/section';
+@import './components/container';
+@import './components/body';
+
+// layout styles
+@import './components/header';
+@import './components/nav';
+@import './components/section-banner';
+@import './components/main-content';
+@import './components/section-work';
+@import './components/section-team';
+@import './components/section-client';
+@import './components/footer';
+@import './components/main-portfolio';
+
+// components styles
+@import './components/logo';
+@import './components/button';
+@import './components/social-list';
+@import './components/adress';
+@import './components/footer-social';
+@import './components/register-email';
+@import './components/main-content';
+@import './components/overlay';
+@import './components/modal-window';
+
+
